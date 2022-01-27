@@ -17,6 +17,7 @@
     <groupId>com.hqs</groupId>
     <artifactId>springcloud-rocketmq-transaction</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>springcloud-rocketmq-transaction</name>
     <description>Demo project for RocketMQ Transaction using Spring Cloud</description>
     <properties>
