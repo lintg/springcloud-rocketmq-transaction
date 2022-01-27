@@ -17,6 +17,7 @@ import java.util.UUID;
 
 /**
  * @Description: 订单服务相关接口
+ * http://localhost:9001/api/v1/order/chargeOrder?userId=1&productId=1&total=1&tradeNo=4
  */
 @Slf4j
 @RestController
